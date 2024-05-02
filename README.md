@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/profile.jpg?raw=true" width="150"/>
+<span><img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/profile.jpg?raw=true" width="150"/></span>
 <span><img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/수료증.jpg?raw=true" width="150"/></span>
 <span><img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/추천서.jpg?raw=true" width="150"/></span>
 <br>
