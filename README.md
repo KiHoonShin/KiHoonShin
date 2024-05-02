@@ -1,11 +1,17 @@
 <img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/profile.jpg?raw=true" width="100"/>
 <br>
 
-### 나를 소개하는 한 문장 
-K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코딩 + Docker : 1080 시간)를 이수했습니다. 6개월 과정에서 총 3개의 프로젝트를 진행 했습니다. <br>
-배움을 두려워하지 않으며 항상 새로운 도전을 시작할 준비가 되어있습니다. <br>
-한 번 시작한 업무는 끝까지 완수를 해야 하는 성격입니다. <br>
-꾸준히 성장해왔으며 앞으로도 끊임없이 성장해 나아갈 개발자입니다. <br>
+[포트폴리오](https://fluorescent-day-904.notion.site/c97d67296e4f4159907bcc3e86569cd5?pvs=4)
+<br>
+[프로젝트](https://www.notion.so/e60a7afbdbfc4f748010f80d491a357f?v=e80ace7229a54bb18bdf5fadc77db1a4)
+
+### 신기훈
+
+안녕하세요, 꾸준히 성장하는 신입 개발자 신기훈입니다.
+1. K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코딩 + Docker : 1080 시간)를 이수했습니다. 6개월 과정에서 총 3개의 프로젝트를 진행 했습니다. <br>
+2. 배움을 두려워하지 않으며 항상 새로운 도전을 시작할 준비가 되어있습니다. <br>
+3. 한 번 시작한 업무는 끝까지 완수를 해야 하는 성격입니다. <br>
+4. 꾸준히 성장해왔으며 앞으로도 끊임없이 성장해 나아갈 개발자입니다. <br>
 
 --- 
 
@@ -15,9 +21,9 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 ---
 
 ### 참여 프로젝트 
-1. ['일단모여' - 그룹 매칭 플랫폼](https://KiHoonShin.github.io/)
-2. ['JAVA(자바)' - 호텔 예약 플랫폼](about:blank)
-3. ['마리오 게임' - 미니 프로젝트](about:blank)
+1. ['일단모여' - 그룹 매칭 플랫폼](https://www.notion.so/de421de178f04d41a68c663e0733b019)
+2. ['JAVA(자바)' - 호텔 예약 플랫폼](https://www.notion.so/JAVA-0040895bfdd34f73a5f1cd6828501e66)
+3. ['마리오 게임' - 미니 프로젝트](https://www.notion.so/bb8b145f259346ba938ff8422eab44e9)
 
 ---
 
@@ -39,17 +45,17 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
     <tr>
       <td>
         <a href="https://youtu.be/5UyVBOJnMpM" title="팀 프로젝트 '일단모여'">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4" width="300px" >
+          <img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/일단모여.PNG?raw=true" width="300px" >
         </a>
       </td>
       <td>
       <a href="https://youtu.be/-gte5MW0XUg" title="팀 프로젝트 'JAVA(자바)">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
+          <img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/자바(java).jpeg?raw=true" width="300px" >
         </a>
       </td>
       <td>
        <a href="https://youtu.be/hqt-UGIJKSA" title="미니 프로젝트 - 마리오 게임">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
+          <img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/마리오.PNG?raw=true" width="300px" >
         </a>
       </td>
     </tr>
