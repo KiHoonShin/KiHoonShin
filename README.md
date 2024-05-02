@@ -1,6 +1,6 @@
-<img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/profile.jpg?raw=true" width="100"/>
-<img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/수료증.jpg?raw=true" width="100"/>
-<img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/추천서.jpg?raw=true" width="100"/>
+<img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/profile.jpg?raw=true" width="300"/>
+<span><img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/수료증.jpg?raw=true" width="300"/></span>
+<span><img align="center" src="https://github.com/KiHoonShin/KiHoonShin/blob/main/img/추천서.jpg?raw=true" width="300"/></span>
 <br>
 
 [포트폴리오](https://fluorescent-day-904.notion.site/c97d67296e4f4159907bcc3e86569cd5?pvs=4)
