@@ -12,16 +12,13 @@
 
 ### 교육과정 수료 
 * 자바 웹 개발 (Docker) 양성 과정 (2023.10.10 ~ 2024.04.24 )
-* 이전에 수료했던 과정 풀네임 (기간)
-* 이전에 수료했던 과정 풀네임 (기간)
 
 ---
 
 ### 참여 프로젝트 
-1. [프로젝트명1 ](https://yeonmitc.github.io/)
-2. [프로젝트명2](about:blank)
-3. [프로젝트명3](about:blank)
-4. [프로젝트명4](배포링크)
+1. ['일단모여' - 그룹 매칭 플랫폼](https://KiHoonShin.github.io/)
+2. ['JAVA(자바)' - 호텔 예약 플랫폼](about:blank)
+3. ['마리오 게임' - 미니 프로젝트](about:blank)
 
 ---
 
@@ -39,17 +36,17 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트1">
+        <a href="https://youtu.be/5UyVBOJnMpM" title="팀 프로젝트 '일단모여'">
           <img align="center" src="https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4" width="300px" >
         </a>
       </td>
       <td>
-      <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트2">
+      <a href="https://youtu.be/-gte5MW0XUg" title="팀 프로젝트 'JAVA(자바)">
           <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
       <td>
-       <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트3">
+       <a href="https://youtu.be/hqt-UGIJKSA" title="미니 프로젝트 - 마리오 게임">
           <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
